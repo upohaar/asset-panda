@@ -1,6 +1,5 @@
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
-
 const CalendarSection = () => {
   return (
     <section className="mt-6 w-full p-6 bg-clip-border rounded-xl bg-white text-gray-700 shadow-md">
