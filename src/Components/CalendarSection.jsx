@@ -17,5 +17,4 @@ const CalendarSection = () => {
     </section>
   );
 };
-
 export default CalendarSection;
