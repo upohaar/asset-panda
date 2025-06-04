@@ -11,6 +11,7 @@ const MessageComponent = () => {
       </div>
     </div>
   );
+  
 };
 
 export default MessageComponent;
