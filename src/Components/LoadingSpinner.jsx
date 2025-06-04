@@ -17,4 +17,5 @@ const LoadingSpinner = ({ smallHeight }) => {
   );
 };
 
+
 export default LoadingSpinner;
