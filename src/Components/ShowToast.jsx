@@ -11,5 +11,4 @@ const showToast = (message, type = "success") => {
     timerProgressBar: true,
   });
 };
-
 export default showToast;
