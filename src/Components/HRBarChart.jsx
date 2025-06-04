@@ -72,6 +72,7 @@ const HRBarChart = ({ activity }) => {
           },
         },
       },
+      
       x: {
         ticks: {
           font: {
