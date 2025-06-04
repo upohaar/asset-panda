@@ -4,7 +4,6 @@ import Container from "./Container";
 import p1 from "../assets/Logo/paper-airplane.png";
 import p2 from "../assets/Logo/plane.png";
 import p3 from "../assets/Logo/shuttle-rocket.png";
-
 const Package = () => {
   const [selected, setSelected] = useState(8);
   const [isModalOpen, setIsModalOpen] = useState(false);
