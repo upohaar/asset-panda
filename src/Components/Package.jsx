@@ -7,7 +7,6 @@ import p3 from "../assets/Logo/shuttle-rocket.png";
 const Package = () => {
   const [selected, setSelected] = useState(8);
   const [isModalOpen, setIsModalOpen] = useState(false);
-
   const packages = [
     {
       id: 1,
