@@ -16,6 +16,4 @@ const LoadingSpinner = ({ smallHeight }) => {
     </div>
   );
 };
-
-
 export default LoadingSpinner;
